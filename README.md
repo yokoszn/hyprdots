@@ -34,23 +34,6 @@ list of main programs, applications, tools and themes that I use for my rice
 | terminal clock      | [tty-clock](https://github.com/xorg62/tty-clock)
 | terminal games      | [snake](https://github.com/PonasKovas/snake) & [2048](https://github.com/mevdschee/2048.c)
 
-<details style="margin-bottom: 20px;">
-<summary>plans... </summary>
-
-...to improve the rice. 
-
-I intend to implement the following tools in the (near) future:<br/>
-
-| component           | resource  
-| :---------          | :-------  
-| login menu          | [sddm](https://github.com/sddm/sddm) 
-| notifications daemon | [dunst](https://github.com/dunst-project/dunst)
-| firefox startpage    | [firefoxCSS](https://github.com/Aris-t2/CustomCSSforFx) 
-| widgets             | [ags](https://github.com/Aylur/ags) or [eww](https://github.com/elkowar/eww)
-| text/code editor    | [neovim](https://neovim.io/) and [code-oss](https://github.com/microsoft/vscode)
-| typing test tool    | [tt](https://github.com/lemnos/tt) or [monk-minl](https://github.com/shikhar13012001/monk-minal)
-
-
 ### Penrose triangle forest
 <p align="center">
   <img src="./showcase/grid_penrose-triangle-forest.png" style="width: 100%;">
@@ -85,6 +68,22 @@ I intend to implement the following tools in the (near) future:<br/>
 <p align="center">
   <img src="./showcase/grid_vibrant-colors.png" style="width: 100%;">
 </p>
+
+<details style="margin-bottom: 20px;">
+<summary>plans... </summary>
+
+...to improve the rice. 
+
+I intend to implement the following tools in the (near) future:<br/>
+
+| component           | resource  
+| :---------          | :-------  
+| login menu          | [sddm](https://github.com/sddm/sddm) 
+| notifications daemon | [dunst](https://github.com/dunst-project/dunst)
+| firefox startpage    | [firefoxCSS](https://github.com/Aris-t2/CustomCSSforFx) 
+| widgets             | [ags](https://github.com/Aylur/ags) or [eww](https://github.com/elkowar/eww)
+| text/code editor    | [neovim](https://neovim.io/) and [code-oss](https://github.com/microsoft/vscode)
+| typing test tool    | [tt](https://github.com/lemnos/tt) or [monk-minl](https://github.com/shikhar13012001/monk-minal)
 
 ---
 
