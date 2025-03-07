@@ -3,8 +3,9 @@ Welcome to my Hyprland Dotfiles
 </h3>
 
 ## Installation
-See the [arch-base install guide](https://github.com/yokoszn/arch/blob/main/README.md) on setting up a minimal base-install.
-See the [dotfiles install guide](https://github.com/yokoszn/hyprdots/blob/master/installation.md) on how to install this yourself.
+
+- See the [arch-base install guide](https://github.com/yokoszn/arch/blob/main/README.md) on setting up a minimal base-install.
+- See the [dotfiles install guide](https://github.com/yokoszn/hyprdots/blob/master/installation.md) on how to install this yourself.
 
 An automatic dotfiles install script will follow.
 
