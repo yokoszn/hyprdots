@@ -1,3 +1,7 @@
+<h3 align="left">
+Welcome to my dotfiles repo
+</h3>
+
 <div align="left">
 <br>
   <a href="#packages"><kbd> <br> Packages <br> </kbd></a>&ensp;&ensp;
@@ -5,9 +9,7 @@
   <a href="#installation"><kbd> <br> Installation <br> </kbd></a> <br>
 </div>
 
-<h3 align="left">
-Welcome to my dotfiles repo
-</h3>
+
 
 ## Packages
 list of main programs, applications, tools and themes that I use for my rice
@@ -34,7 +36,9 @@ list of main programs, applications, tools and themes that I use for my rice
 | terminal clock      | [tty-clock](https://github.com/xorg62/tty-clock)
 | terminal games      | [snake](https://github.com/PonasKovas/snake) & [2048](https://github.com/mevdschee/2048.c)
 
-<summary> Showcase! </summary>
+<summary> Showcase </summary>
+
+Screenshots<br/>
 
 ### Penrose triangle forest
 <p align="center">
