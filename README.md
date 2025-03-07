@@ -44,7 +44,7 @@ list of main programs, applications, tools and themes that I use for my rice
 | terminal games      | [snake](https://github.com/PonasKovas/snake) & [2048](https://github.com/mevdschee/2048.c)
 
 ---
-
+# Showcase
 ### Penrose triangle forest
 <p align="center">
   <img src="./showcase/grid_penrose-triangle-forest.png" style="width: 100%;">
