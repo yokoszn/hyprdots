@@ -1,6 +1,12 @@
 <h3 align="left">
-Welcome to my dotfiles repo
+Welcome to my Hyprland Dotfiles
 </h3>
+
+## Installation
+See the [arch-base install guide](https://github.com/yokoszn/arch/blob/main/README.md) on setting up a minimal base-install.
+See the [dotfiles install guide](https://github.com/yokoszn/hyprdots/blob/master/installation.md) on how to install this yourself.
+
+An automatic dotfiles install script will follow.
 
 <div align="left">
 <br>
@@ -36,9 +42,7 @@ list of main programs, applications, tools and themes that I use for my rice
 | terminal clock      | [tty-clock](https://github.com/xorg62/tty-clock)
 | terminal games      | [snake](https://github.com/PonasKovas/snake) & [2048](https://github.com/mevdschee/2048.c)
 
-<summary> Showcase </summary>
-
-Screenshots<br/>
+---
 
 ### Penrose triangle forest
 <p align="center">
@@ -93,14 +97,6 @@ I intend to implement the following tools in the (near) future:<br/>
 
 ---
 
-## Installation
-
-See the [install guide](https://github.com/yokoszn/hyprdots/blob/master/installation.md) on how to manually install this yourself.
-
-An automatic install script will follow.
-
----
-
 ## Miscellanous
 
 Laptop Brightness & Lid Switch
@@ -139,6 +135,6 @@ SUPER + Arrow: Resizes the active window (width/height changes).
 ```
 ---
 # To Do
- - [ ]yubi-key for MFA with decryption with encrypted boot partition.
- - [ ]headless encrypted disk setup guide - bootloader on seperate drive, e.g. USB or microSD card
- - [ ]Screenshots
+ - [ ] yubi-key for MFA with decryption with encrypted boot partition.
+ - [ ] headless encrypted disk setup guide - bootloader on seperate drive, e.g. USB or microSD card
+ - [ ] Screenshots
